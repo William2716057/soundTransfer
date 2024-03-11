@@ -29,7 +29,4 @@ Reconstruction: Finally, the base64 data is recompiled into the original file.
 Limitations and Work in Progress
 
 Case Sensitivity: Currently, upper and lower case characters are represented with the same sound in Morse code. This may cause ambiguity during decoding and is an area of ongoing improvement.
-Usage
-Clone the repository.
-Ensure you have Python installed on your system.
-Run the script and follow the prompts to provide the input file path.
+
